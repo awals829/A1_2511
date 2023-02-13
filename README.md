@@ -1,5 +1,4 @@
 # A1_2511
-# A1_2511
 
 https://github.com/m-myer/A1_2511
 
