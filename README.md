@@ -2,8 +2,8 @@
 
 <ul>
 Forks: <br>
-  <li> https://github.com/awals985/A1_2511 <li>
-  <li> https://github.com/awals985/A1_2511 <li>
+  <li> https://github.com/awals985/A1_2511 </li>
+  <li> https://github.com/awals985/A1_2511 </li>
 </ul>
 
 -----------------------------------
