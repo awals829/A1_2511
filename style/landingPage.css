@@ -75,6 +75,7 @@ main {
     position: absolute;
     min-height: 75%;
     min-width: 100%;
+    /*-- image credits: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication, source: https://pxhere.com/en/photo/717569 */
     background-image: url(../images/creative-abstract-texture-flower-petal-decoration-large.jpg);
     background-size: cover;
 }
